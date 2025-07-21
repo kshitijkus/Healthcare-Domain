@@ -13,5 +13,5 @@
  
  
  <p align="center">
-  <img src="screenshots/prediction_result.png" width="70%" height="70%" />
+  <img src="https://github.com/kshitijkus/Healthcare-Domain/blob/main/kidney-pain-kidney-cysts-kidney-failure.jpg" width="70%" height="70%" />
  </p>
