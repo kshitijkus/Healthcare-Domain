@@ -8,7 +8,7 @@
 
  
  <p align="center">
-  <img src="screenshots/prediction_page_filled.png" width="70%" height="70%" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fkidney-disease&psig=AOvVaw0SBPSKNCuGFqY1gBXYlXoB&ust=1753182378552000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCOnsjnzY4DFQAAAAAdAAAAABAE" width="70%" height="70%" />
  </p>
  
  
