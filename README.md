@@ -7,5 +7,5 @@
  </p>
 
 <p align="center">
-<img src="  https://github.com/kshitijkus/Healthcare-Domain/blob/main/medical-solidarity-concept-kidney.jpg  " width="70%" height="70%" />
+ <img src="  https://github.com/kshitijkus/Healthcare-Domain/blob/main/medical-solidarity-concept-kidney.jpg  " width="70%" height="70%" />
 </p>
