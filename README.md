@@ -1,1 +1,2 @@
-# Healthcare-Domain
+#  Heart and Kidney Disease Prediction System using machine learning
+>The aim of this project is to predict heart and Kidney disease using data mining techniques and machine learning algorithms.This project implements 6 classificiation models using scikit-learn: Logistic Regression, Naïve Bayes, Support Vector Classifier,KNN, Nerual Network and Decision Tree Model to investigate their performance on heart and kidney disease datasets obtained from the UCI data repository and from Kaggle.com.
